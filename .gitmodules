@@ -6,10 +6,13 @@
 	url = https://github.com/libevent/libevent.git
 [submodule "ext/properties"]
 	path = ext/properties
-    url = https://github.com/blu-corner/properties.git
+	url = https://github.com/Version1/properties.git
+	branch = main
 [submodule "ext/sbf"]
 	path = ext/sbf
-    url = https://github.com/blu-corner/sbf.git
+	url = https://github.com/Version1/sbf.git
+	branch = main
 [submodule "ext/utils"]
 	path = ext/utils
-    url = https://github.com/blu-corner/utils.git
+	url = https://github.com/Version1/utils.git
+	branch = main
